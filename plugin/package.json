@@ -1,0 +1,32 @@
+{
+    "name": "@nativescript-community/ui-social-share",
+    "version": "0.1.20",
+    "description": "Nativescript plugin for gestures",
+    "main": "social-share",
+    "sideEffects": false,
+    "typings": "index.d.ts",
+    "nativescript": {
+        "platforms": {
+            "android": "6.2.1",
+            "ios": "6.2.1"
+        }
+    },
+    "keywords": [
+        "NativeScript",
+        "JavaScript",
+        "iOS"
+    ],
+    "author": {
+        "name": "Martin Guillon",
+        "email": "martin.guillon@akylas.fr"
+    },
+    "bugs": {
+        "url": "https://github.com/nativescript-community/gesturehandler/issues"
+    },
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/nativescript-community/gesturehandler",
+    "bootstrapper": "nativescript-plugin-seed",
+    "dependencies": {
+        "@nativescript-community/observable": "^2.0.8"
+    }
+}
