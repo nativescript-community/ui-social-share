@@ -1,6 +1,6 @@
 {
     "name": "@nativescript-community/ui-social-share",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "description": "Nativescript plugin for gestures",
     "main": "social-share",
     "sideEffects": false,
